@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,100:0e3a5d&height=160&section=header&text=Capaseztel.dev&fontSize=42&fontColor=22d3ee&animation=fadeIn&fontAlignY=38" alt="header" />
+<a href="https://capaseztel.github.io"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,100:0e3a5d&height=160&section=header&text=Capaseztel.dev&fontSize=42&fontColor=22d3ee&animation=fadeIn&fontAlignY=38" alt="Capaseztel.dev portfolio" /></a>
+
+<p align="center">
+  <a href="https://capaseztel.github.io"><img src="https://img.shields.io/badge/Portfolio-capaseztel.github.io-22d3ee?style=for-the-badge&logo=githubpages&logoColor=05070d" alt="portfolio" /></a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&pause=1000&color=EEF2FF&center=true&vCenter=true&width=620&lines=FullStack+Java+Developer;Spring+Boot+%2B+Angular+%2B+MySQL;SOA+%2F+OSB+%2B+Testing;Now%3A+Flutter+%2B+Python+%2B+Unity" alt="typing" />
@@ -97,7 +101,8 @@ public class Manuel {
 ## Contact
 
 <p align="center">
-  <a href="mailto:manueljesus10.mjcp@gmail.com"><img src="https://img.shields.io/badge/Email-manueljesus10.mjcp@gmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=05070d" alt="email" /></a>
+  <a href="https://capaseztel.github.io"><img src="https://img.shields.io/badge/Portfolio-capaseztel.github.io-22d3ee?style=for-the-badge&logo=githubpages&logoColor=05070d" alt="portfolio" /></a>
+  <a href="mailto:manueljesus10.mjcp@gmail.com"><img src="https://img.shields.io/badge/Email-manueljesus10.mjcp@gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/Capaseztel"><img src="https://img.shields.io/badge/GitHub-@Capaseztel-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
