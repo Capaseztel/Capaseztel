@@ -32,21 +32,45 @@ public class Manuel {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
 **Focus actual**
-- FullStack Java: Spring Boot · Security · Angular · MySQL · SOA/OSB
-- Testing: JUnit · Mockito · AssertJ
-- Ahora en DAM: Flutter · Python multiproceso · Unity
+
+FullStack Java · SOA/OSB · Testing
+<br /><br />
+<img src="https://img.shields.io/badge/Java-0b1220?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-0b1220?style=flat-square&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Angular-0b1220?style=flat-square&logo=angular&logoColor=DD0031" />
+<img src="https://img.shields.io/badge/MySQL-0b1220?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/JUnit-0b1220?style=flat-square&logo=junit5&logoColor=25A162" />
+<br /><br />
+Ahora en DAM
+<br /><br />
+<img src="https://img.shields.io/badge/Flutter-0b1220?style=flat-square&logo=flutter&logoColor=02569B" />
+<img src="https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Unity-0b1220?style=flat-square&logo=unity&logoColor=white" />
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
 **Background**
-- **VIEWNEXT (2025)** — Web Developer
-- **AGRILYTIX (2023)** — Web Developer
-- DAW Superior · SMR Medio · DAM en curso
-- ES nativo · EN C1 · FR básico
+
+<br />
+<img src="https://img.shields.io/badge/VIEWNEXT-2025-22d3ee?style=flat-square&labelColor=05070d" />
+<br />
+Web Developer · FullStack Java
+<br /><br />
+<img src="https://img.shields.io/badge/AGRILYTIX-2023-0b1220?style=flat-square&labelColor=05070d" />
+<br />
+Web Developer
+<br /><br />
+<img src="https://img.shields.io/badge/DAW-Superior-0b1220?style=flat-square&labelColor=05070d" />
+<img src="https://img.shields.io/badge/SMR-Medio-0b1220?style=flat-square&labelColor=05070d" />
+<img src="https://img.shields.io/badge/DAM-en_curso-a78bfa?style=flat-square&labelColor=05070d" />
+<br /><br />
+<img src="https://img.shields.io/badge/ES-Nativo-0b1220?style=flat-square&labelColor=05070d" />
+<img src="https://img.shields.io/badge/EN-C1-0b1220?style=flat-square&labelColor=05070d" />
+<img src="https://img.shields.io/badge/FR-Básico-0b1220?style=flat-square&labelColor=05070d" />
 
 </td>
   </tr>
