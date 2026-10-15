@@ -71,10 +71,6 @@ public class Manuel {
   <img src="https://streak-stats.demolab.com?user=Capaseztel&theme=tokyonight&hide_border=true&background=05070D&ring=22D3EE&fire=22D3EE&currStreakLabel=EEF2FF&sideNums=EEF2FF" alt="streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Capaseztel&theme=tokyo-night&bg_color=05070d&hide_border=true&color=22d3ee&line=22d3ee&point=a78bfa" alt="activity" />
-</p>
-
 ---
 
 ## Snake eating my contributions
@@ -85,45 +81,6 @@ public class Manuel {
     <img width="100%" src="https://raw.githubusercontent.com/Capaseztel/Capaseztel/output/github-snake.svg" alt="snake" />
   </picture>
 </p>
-
-<details>
-  <summary><b>Como activar el snake (una sola vez)</b></summary>
-  <br />
-
-1. Crea el repo `Capaseztel` (igual que tu usuario) y sube esto como `README.md`.
-2. En ese repo crea `.github/workflows/snake.yml`:
-
-```yaml
-name: Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Capaseztel
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Ejecútalo una vez en `Actions > Snake > Run workflow`.
-</details>
-
----
 
 ## Experience & Education
 
